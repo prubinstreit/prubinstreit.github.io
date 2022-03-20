@@ -3,8 +3,7 @@ permalink: /entrepreneur/
 title: "Entrepreneurship"
 ---
 
-Every class is a performance.  Success for me is when students develop a passion for topics due to 
-the recognition that it provides value in their lives.
+Passion for start-ups with the flexibility to adapt to opportunities.
 
 ## Co-Founder and Chief Data Officer
 ###Success Schools
