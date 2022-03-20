@@ -13,6 +13,8 @@ the recognition that its provides usefulness in their lives.
     - Graduate Teaching Assistant
 - ECON7200: Health Economics (Fall 2019)
     - Graduate Teaching Assistant
+- INSH6500: Statistical Analysis in R (Summer 2021)
+    - Tutor
 
 ## Mount Ida College
 - BA330: Fundamentals of Investment (Spring 2015)
