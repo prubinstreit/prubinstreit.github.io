@@ -7,6 +7,6 @@ header:
   #og_image: "research/ecdf.png"
 ---
 
-My research fundamentally revolves around thoughtful analysis with a focus on causality.
+My research centers around thoughtful multi-variate analysis with a focus on causality.
 
 
