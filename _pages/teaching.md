@@ -23,18 +23,25 @@ You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
 You can find a selection of my teaching materials, including all of the labs
 from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## Northeastern University
+- ECON1115: Principles of Macroeconomics (Fall 2021)
+    - 4 Recitation Sections
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Mount Ida College
+- BA330: Fundamentals of Investment (Spring 2015)
+    - [Syllabus](/files/pdf/teaching/)
+- BA225: Business Statistics (Spring 2013 - Fall 2015)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+- MA115: Mathematical Ideas (Fall 2015-Spring 2018)
+ 
+- MA121: College Algebra (Spring 2016)
+
+- MA130: Fundamentals of Business Math (Fall 2016-Spring 2018)
+ 
+- MA201: Statistics for Behavioral and Health Sciences (Spring 2013, 2017, and 2018)
+
+- MA202: Calculus I (Spring 2018)
+
+
+
+
