@@ -3,14 +3,11 @@ main:
   - title: "Entrepreneurship"
     url: /entrepreneur/
     
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Software"
-    url: /software/
-    
   - title: "Résumé"
     url: /resume/
