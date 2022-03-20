@@ -3,7 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Every class is a performance.  Success for me is measured when passion for the topic queued in a student.
+Every class is a performance.  Success for me is when students develop a passion for a topic due to 
+the recognition that its provides usefulness in their lives.
 
 ## Northeastern University
 - ECON1115: Principles of Macroeconomics (Fall 2021)
