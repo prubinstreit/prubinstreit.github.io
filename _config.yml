@@ -73,23 +73,23 @@ social:
 
 # Analytics
 analytics:
-  provider               : #"goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : #PHILIP
+    code		 : jayrobwilliams
 
 
 # Site Author
 author:
-  name             : "Philip Rubin-Streit"
+  name             : "Rob Williams"
   avatar           : "profile.png"
-  bio              : "Economist and Full Stack Data Scientist"
-  location         : "Boston, MA"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "St. Louis, MO"
   employer         :
   pubmed           :
-  orcid            : #"http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
   email            : "p.rubinstreit@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   facebook         :
   foursquare       :
   github           : "prubinstreit"
-  #gitlab           : #"philip"
+  #gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
