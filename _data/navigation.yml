@@ -2,8 +2,8 @@
 main:
  # - title: "Publications"
  #   url: /publications/
- #  - title: "Entrepreneurship"
-#    url: /entrepreneur/
+   - title: "Entrepreneurship"
+    url: /entrepreneur/
     
    - title: "CV"
     url: /cv/
