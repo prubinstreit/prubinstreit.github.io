@@ -8,6 +8,10 @@ Every class is a performance.  Success for me is measured when passion for the t
 ## Northeastern University
 - ECON1115: Principles of Macroeconomics (Fall 2021)
     - 4 Recitation Sections
+- ECON4681: Information Economics and Game Theory (Spring 2021)
+    - Graduate Teaching Assistant
+- ECON7200: Health Economics (Fall 2019)
+    - Graduate Teaching Assistant
 
 ## Mount Ida College
 - BA330: Fundamentals of Investment (Spring 2015)
