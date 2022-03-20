@@ -13,7 +13,7 @@ Every class is a performance.  Success for me is measured when passion for the t
 - BA330: Fundamentals of Investment (Spring 2015)
 
 - BA225: Business Statistics (Spring 2013 - Fall 2015)
-    - [Syllabus](/files/pdf/teaching/BA225 Syllabus F15.docx)
+    - [Syllabus](/files/pdf/teaching/BA225 Syllabus F15.pdf)
 - MA115: Mathematical Ideas (Fall 2015-Spring 2018)
  
 - MA121: College Algebra (Spring 2016)
