@@ -1,35 +1,23 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+permalink: /entrepreneur/
+title: "Entrepreneurship"
 ---
 
 Every class is a performance.  Success for me is when students develop a passion for topics due to 
 the recognition that it provides value in their lives.
 
-## Northeastern University
-- ECON1115: Principles of Macroeconomics (Fall 2021)
-    - 4 Recitation Sections
-- ECON4681: Information Economics and Game Theory (Spring 2021)
-    - Graduate Teaching Assistant
-- ECON7200: Health Economics (Fall 2019)
-    - Graduate Teaching Assistant
-- INSH6500: Statistical Analysis in R (Summer 2021)
-    - Tutor
+## Co-Founder and Chief Data Officer
+###Success Schools
+###Co-founded startup that contracted with public and private school systems to provide turnkey operations 
+for challenging student populations. Oversaw all finance and information technology. Developed and 
+managed startup’s IT infrastructure and financial operations, including accounting and regulatory 
+compliance mechanisms.
 
-## Mount Ida College
-- BA330: Fundamentals of Investment (Spring 2015)
-
-- BA225: Business Statistics (Spring 2013 - Fall 2015)
-    - [Syllabus](/files/pdf/teaching/BA225 Syllabus F15.pdf)
-- MA115: Mathematical Ideas (Fall 2015-Spring 2018)
- 
-- MA121: College Algebra (Spring 2016)
-
-- MA130: Fundamentals of Business Math (Fall 2016-Spring 2018)
- 
-- MA201: Statistics for Behavioral and Health Sciences (Spring 2013, 2017, and 2018)
-
-- MA202: Calculus I (Spring 2018)
+## Vice President of Analystics
+###eLayaway
+###Established advanced analytics function for online payments startup company, including building 
+eLayway’s analytical engine. Analyzed future revenue and cost streams. Leveraged insights to develop 
+finance optimization strategies.
 
 
 
