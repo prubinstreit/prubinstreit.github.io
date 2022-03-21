@@ -12,5 +12,5 @@ My research centers around thoughtful multi-variate analysis with a focus on cau
 
 
 ## Donor Traits Evolve
-  <iframe src="https://plotly-animated-scraper.herokuapp.com" width="860px" height="520px"></iframe>
+  <iframe src="https://plotly-animated-scraper.herokuapp.com" width="860px" height="540px"></iframe>
   [Link to Interactive](https://plotly-animated-scraper.herokuapp.com)
