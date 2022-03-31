@@ -71,9 +71,7 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  google_analytics: UA-539827-3
+google_analytics: UA-539827-3
 
 
 # Site Author
