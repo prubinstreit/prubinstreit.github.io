@@ -8,6 +8,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 
 # Site Settings
+google_analytics         :  G-71DR3PCQ91
 locale                   : "en-US"
 title                    : "Philip Rubin-Streit"
 title_separator          : "-"
@@ -73,7 +74,7 @@ social:
   links: # An array of links to social media profiles
 
 
-google_analytics:  G-71DR3PCQ91
+
 
 
 # Site Author
