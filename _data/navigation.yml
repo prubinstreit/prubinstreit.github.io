@@ -3,6 +3,9 @@ main:
   - title: "Entrepreneurship"
     url: /entrepreneur/
     
+  - title: "Data Science"
+    url: /ds/  
+  
   - title: "Teaching"
     url: /teaching/    
     
