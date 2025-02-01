@@ -10,9 +10,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Site Settings
 google_analytics         :  G-71DR3PCQ91
 locale                   : "en-US"
-title                    : "Philip Rubin-Streit"
+title                    : "Philip Strumine"
 title_separator          : "-"
-name                     : &name "Philip Rubin-Streit"
+name                     : &name "Strumine"
 description              : &description "Full Stack Data Scientist"
 url                      : https://prubinstreit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
