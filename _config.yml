@@ -12,7 +12,7 @@ google_analytics         :  G-71DR3PCQ91
 locale                   : "en-US"
 title                    : "Philip Strumine"
 title_separator          : "-"
-name                     : &name "Strumine"
+name                     : &name "Philip Strumine"
 description              : &description "Full Stack Data Scientist"
 url                      : https://prubinstreit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ social:
 
 # Site Author
 author:
-  name             : "Philip Rubin-Streit"
+  name             : "Philip Strumine"
   avatar           : "profile.png"
   bio              : "Economist and Data Scientist"
   location         : "Boston, MA"
@@ -103,13 +103,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "philip-rubin-streit/"
+  linkedin         : "philip-strumine/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"geoseppi36"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
