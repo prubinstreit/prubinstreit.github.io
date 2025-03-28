@@ -9,6 +9,17 @@ Passion for start-ups with the flexibility to adapt to opportunities. I combine 
 
 ## Professional Experience
 
+### Senior Data Scientist – Aetna, a CVS Health Company 2022-Present
+* Led the development, deployment, and performance tracking of maternity-related campaign and risk models.
+* Implemented scalable SQL models deployed by Python DAG leveraging frameworks such as scikit-learn and GCP to
+enhance campaign success measurement and product impact
+* Developed, deployed and owned a novel, clinical model that outperformed all previous clinical research-backed
+results by improving specificity by 12%
+* Assessed value of two previously unmeasurable campaigns and then achieved full buy-in from many verticals to
+initiate refreshes for both campaigns leading to 35% ROI
+* Consolidated numerous complex campaign analyses into a simple-to-understand executive summary leading to YoY
+cost reduction of 8%
+
 ### Co-Founder and Chief Data Officer - Success Schools
 * Co-founded startup that contracted with public and private school systems to provide turnkey operations 
 for challenging student populations. Oversaw all finance and information technology. Developed and 
@@ -26,11 +37,15 @@ finance optimization strategies.
 
 ## Technical Skills
 
-* **Programming Languages**: Python, R, SQL, MATLAB
-* **Data Visualization**: Tableau, ggplot2, matplotlib, seaborn
-* **Machine Learning**: Regression, Classification, Clustering, Time Series Analysis
+* **Programming Languages**: Python, R, SQL, MATLAB, C, C++, BASH
+* **Python Libraries**: Spark, TensorFlow, Dash, Pandas, SciKit Learn, Selenium, Plotly, Seaborn
+* **R Packages**: Tidyverse, Shiny, Stargazer
+* **Data Visualization**: Tableau, ggplot2, matplotlib, seaborn, Plotly
+* **Machine Learning**: Regression, Classification, Clustering, Time Series Analysis, BigQueryML
 * **Big Data Technologies**: Hadoop, BigQuery, Spark
-* **Cloud Platforms**: Google Cloud (Vertex AI), AWS
+* **Cloud & DevOps**: Google Cloud (Vertex AI, Vertex AI Pipelines), AWS, Jenkins, Airflow
+* **Statistical Software**: Stata, SPSS, Mathematica
+* **Other Tools**: Git, Excel
 
 ## Data Science Approach
 
