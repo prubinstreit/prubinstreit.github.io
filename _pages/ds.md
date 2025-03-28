@@ -3,7 +3,7 @@ permalink: /ds/
 title: "Data Science"
 ---
 
-# Data Science Expertise
+# Expertise
 
 Passion for start-ups with the flexibility to adapt to opportunities. I combine advanced analytical skills with business acumen to drive data-informed decision making across organizations.
 
