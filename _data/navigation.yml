@@ -1,11 +1,11 @@
 # main links links
 main:
+  - title: "Data Science"
+    url: /ds/  
+    
   - title: "Entrepreneurship"
     url: /entrepreneur/
     
-  - title: "Data Science"
-    url: /ds/  
-  
   - title: "Teaching"
     url: /teaching/    
     
