@@ -7,6 +7,6 @@ redirect_from:
   - /cv
 ---
 
-<iframe src="/files/pdf/Philip Strumine.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/PhilipStrumine.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my Résumé [here](/files/pdf/Philip Strumine.pdf).
+You can download a PDF copy of my Résumé [here](/files/PhilipStrumine.pdf).
