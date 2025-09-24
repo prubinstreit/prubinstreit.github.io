@@ -9,7 +9,8 @@ Passion for start-ups with the flexibility to adapt to opportunities. I combine 
 
 ## Professional Experience
 
-### Senior Data Scientist – Aetna, a CVS Health Company
+### Lead Data Scientist – Aetna, a CVS Health Company 2025-Present
+### Senior Data Scientist – Aetna, a CVS Health Company 2022-2025
 * Led the development, deployment, and performance tracking of maternity-related campaign and risk models.
 * Implemented scalable SQL models deployed by Python DAG leveraging frameworks such as scikit-learn and GCP to
 enhance campaign success measurement and product impact
