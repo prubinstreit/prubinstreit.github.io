@@ -19,7 +19,7 @@ mobile‑optimized build from **July 21, 2026**, covering trips from **2006–20
 
 <div style="width: 100%; max-width: 1000px; margin: 1.5em auto;">
   <iframe
-    src="/files/html/routes_map_20260817_mobile2.html"
+    src="/files/html/routes_map_20260823_mobile2.html"
     title="Interactive map of Philip Strumine's personal flight history"
     width="100%"
     height="640"
@@ -29,7 +29,7 @@ mobile‑optimized build from **July 21, 2026**, covering trips from **2006–20
 </div>
 
 <p style="text-align:center;">
-  <a href="/files/html/routes_map_20260817_mobile2.html" target="_blank" rel="noopener">
+  <a href="/files/html/routes_map_20260823_mobile2.html" target="_blank" rel="noopener">
     Open the full‑screen interactive map ↗
   </a>
 </p>
